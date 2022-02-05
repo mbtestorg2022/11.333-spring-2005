@@ -35,11 +35,48 @@ This seminar is intended for graduate students enrolled in MIT's Urban Design Ce
 
 Work for the class will include reading and research, two brief papers, a group presentation and organization of a class session on one the above topics, and active class participation.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Two Papers (20% each) | 40% |
-| Group Presentation and Topic Session | 40% |
-| Class Participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Papers (20% each)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Presentation and Topic Session
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There are six sessions devoted to exploring urban design trends or topics. (We may review and adjust these topics depending on interests in the class.) At each of these sessions, a group of 2-3 students will be assigned to collaborate on the session content and issues. The group will present the topic and related case studies that support the trend. The students are also encouraged to present alternative examples that support or refute the importance of the trend on the future of cities and urban design. At each session, a group of faculty and urban design/planning professionals will act as respondents to discuss the student presentation. Students are expected to organize the class and lead discussion on their assigned days. At least one week prior to the assigned class session, students should meet with the instructor to present their outline for the class, including:
 

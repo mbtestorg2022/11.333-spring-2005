@@ -4,21 +4,201 @@ title: Calendar
 uid: 322d2fa6-1f5a-b7ec-d1b3-9c9ed57c892d
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1: Urban Design Now**{{< /td-colspan >}} |||
-| 1 | Designing Places and Policies | Assignment 1 out |
-| 2 | Assessing the Current State of Urban Design | &nbsp; |
-| 3 | Urban Design Competitions and How to Judge Them | &nbsp; |
-| 4 | Evaluating Urban Design | &nbsp; |
-| 5 | Discussion of Assignment 1 | Assignment 1 due in class |
-| {{< td-colspan 3 >}}**Part 2: Assessing Urban Design Futures**{{< /td-colspan >}} |||
-| 6 | Past Futures | &nbsp; |
-| 7 | Topic 1: Inventing New Ways of Living: Homes and Neighborhoods | &nbsp; |
-| 8 | Topic 2: Distributing Work: The New Workplace | &nbsp; |
-| 9 | Topic 3: The Advent of "Mediated" Space: Public Places and Technology | Assignment 2 out |
-| 10 | Topic 4: Creating a City of Learning: Schools and Stories in the City | &nbsp; |
-| 11 | Topic 5: Reclaiming the Industrial landscape: Land and Water Infrastructure | &nbsp; |
-| 12 | Topic 6: Rediscovering Nature: Natural Systems in the City | &nbsp; |
-| 13 | What Have We Missed? | Assignment 2 due in class |
-| 14 | Redesigning Urban Design |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: Urban Design Now**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Designing Places and Policies
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Assessing the Current State of Urban Design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Urban Design Competitions and How to Judge Them
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluating Urban Design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Assignment 1
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2: Assessing Urban Design Futures**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Past Futures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Topic 1: Inventing New Ways of Living: Homes and Neighborhoods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Topic 2: Distributing Work: The New Workplace
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Topic 3: The Advent of "Mediated" Space: Public Places and Technology
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Topic 4: Creating a City of Learning: Schools and Stories in the City
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Topic 5: Reclaiming the Industrial landscape: Land and Water Infrastructure
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Topic 6: Rediscovering Nature: Natural Systems in the City
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+What Have We Missed?
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Redesigning Urban Design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
