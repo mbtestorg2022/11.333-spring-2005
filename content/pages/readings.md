@@ -252,7 +252,7 @@ Duffy, Francis. "Two Traditions," and "New Ways of Working." _The New Office_. L
 
 Architekten, Henn. _Die Glaeserne Manufactur_. Hamburg, Germany: Junius Verlag, 2003. ISBN: 3885065436.
 
-———. _Stahl und Form_. Dusseldorf: Stahl-Informations-Zentrum, 2001, pp. 1-18 and 30-31. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7 MB](http://files.vogel.de/vogelonline/vogelonline/files/2771.pdf))
+———. _Stahl und Form_. Dusseldorf: Stahl-Informations-Zentrum, 2001, pp. 1-18 and 30-31. ([PDF - 2.7 MB](http://files.vogel.de/vogelonline/vogelonline/files/2771.pdf))
 
 Gladwell, Malcolm. "Designs for Working." _The New Yorker_, December 11, 2000, 60-70.
 
@@ -286,7 +286,7 @@ Frenchman, Dennis. "Media Street Elements, Guidelines, and Illustrations." Worki
 
 Joroff, Michael, and Dennis Frenchman, et. al. [_DMC: Digital Media Street_](http://en.wikipedia.org/wiki/Digital_Media_City). Seoul, South Korea: Seoul Metropolitan Government, 2003.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/e-topia) ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) Mitchell, William J. "Software: New Genius of the Place." In [_E-topia_](https://mitpress.mit.edu/books/e-topia). Cambridge, MA: MIT Press, 1999. ISBN: 0262133555.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/e-topia)  Mitchell, William J. "Software: New Genius of the Place." In [_E-topia_](https://mitpress.mit.edu/books/e-topia). Cambridge, MA: MIT Press, 1999. ISBN: 0262133555.
 
 City Design and Development Group, CRE, Media Lab. [_New Century Cities: Real Estate Value in a Digital World_. (PDF)](http://web.mit.edu/crisgh/www/NCC%20Prospectus.pdf) Cambridge, MA: MIT, January, 2005.
 
